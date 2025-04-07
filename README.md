@@ -2,6 +2,7 @@
 <H3>Register no.: 212223230124</H3>
 <H3>Date: 07.04.2025</H3>
 <H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
@@ -116,12 +117,10 @@ STEP 11:Print the accuracy<BR>
 
 # OUTPUT:
 
-    '''
     ![image](https://github.com/user-attachments/assets/4aa099e2-03d5-4bf4-9847-8b2b160f24e9)
     ![image](https://github.com/user-attachments/assets/3cf5c297-7f2b-4976-a0e6-dcc386c3fd32)
     ![image](https://github.com/user-attachments/assets/c394dc24-deb6-4acc-a3c3-90f7dccf6815)
     ![image](https://github.com/user-attachments/assets/241dd703-4ef7-46b7-b2bf-55f40b74c090)
-    '''
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
