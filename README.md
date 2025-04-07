@@ -1,7 +1,7 @@
 <H3>Name: Meenu S</H3>
 <H3>Register no.: 212223230124</H3>
 <H3>Date: 07.04.2025</H3>
-<H3>Experiment No. 2 </H3>
+<H1>Experiment No. 2 </H1>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
