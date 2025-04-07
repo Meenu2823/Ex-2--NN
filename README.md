@@ -120,6 +120,7 @@ STEP 11:Print the accuracy<BR>
 ![image](https://github.com/user-attachments/assets/3cf5c297-7f2b-4976-a0e6-dcc386c3fd32)
 
 ![image](https://github.com/user-attachments/assets/c394dc24-deb6-4acc-a3c3-90f7dccf6815)
+
 ![image](https://github.com/user-attachments/assets/241dd703-4ef7-46b7-b2bf-55f40b74c090)
 
 # RESULT:
