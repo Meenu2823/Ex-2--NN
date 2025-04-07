@@ -50,7 +50,7 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-    '''
+~~~
     import numpy as np
     import pandas as pd
     import matplotlib.pyplot as plt
@@ -113,14 +113,13 @@ STEP 11:Print the accuracy<BR>
     classifier.fit(x_train,y_train)
     print("accuracy",accuracy_score(classifier.predict(x_test),y_test)*100)
     plt.plot(range(1,len(classifier.misclassified_samples)+1),classifier.misclassified_samples,marker='o')
-    '''
+~~~
 
 # OUTPUT:
-
-    ![image](https://github.com/user-attachments/assets/4aa099e2-03d5-4bf4-9847-8b2b160f24e9)
-    ![image](https://github.com/user-attachments/assets/3cf5c297-7f2b-4976-a0e6-dcc386c3fd32)
-    ![image](https://github.com/user-attachments/assets/c394dc24-deb6-4acc-a3c3-90f7dccf6815)
-    ![image](https://github.com/user-attachments/assets/241dd703-4ef7-46b7-b2bf-55f40b74c090)
+![image](https://github.com/user-attachments/assets/4aa099e2-03d5-4bf4-9847-8b2b160f24e9)
+![image](https://github.com/user-attachments/assets/3cf5c297-7f2b-4976-a0e6-dcc386c3fd32)
+![image](https://github.com/user-attachments/assets/c394dc24-deb6-4acc-a3c3-90f7dccf6815)
+![image](https://github.com/user-attachments/assets/241dd703-4ef7-46b7-b2bf-55f40b74c090)
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
